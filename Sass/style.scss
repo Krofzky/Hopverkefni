@@ -1,0 +1,22 @@
+@import variables
+header
+
+.Header-login 
+{
+	color:$Black-textcolor;
+}
+
+
+.Header-SignUp 
+{
+	color:$Green-textcolor;
+}
+
+.loginSignin
+{	
+	display:inline;
+	position:relative;
+	left: 85%;
+	top:30px;
+	margin-right:4%;
+}
